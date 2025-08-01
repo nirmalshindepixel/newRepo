@@ -24,7 +24,7 @@
       </p>
     </div>
     <div style="flex:1; min-width:280px;">
-      <img src="https://www.porsche.com/built/teaser_911.jpg" alt="Porsche 911 Side View" style="max-width:100%; border-radius:12px;" />
+      <img src="https://files.porsche.com/filestore/image/multimedia/none/992-carrera-modelimage-sideshot/normal/b5c2b74f-d64e-11ec-80ed-005056bbdc38/porsche-911-modelimage.jpg" alt="Porsche 911 Side View" style="max-width:100%; border-radius:12px;" />
     </div>
   </section>
 
@@ -38,7 +38,7 @@
       <li style="margin:10px 0; color:#ccc;">0-100 km/h in under 3.5s</li>
       <li style="margin:10px 0; color:#ccc;">Premium leather interior</li>
     </ul>
-    <img src="https://cdn.motor1.com/images/mgl/mrzxz/s1/porsche-911-gt3.jpg" alt="Porsche 911 Front"
+    <img src="https://www.motortrend.com/uploads/sites/5/2022/01/2022-Porsche-911-GT3-17.jpg" alt="Porsche 911 Front"
          style="margin-top:30px; max-width:600px; width:100%; border-radius:8px;" />
   </section>
 
@@ -46,11 +46,11 @@
   <section style="padding:60px 20px;">
     <h2 style="text-align:center; margin-bottom:40px;">Gallery</h2>
     <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:20px;">
-      <img src="https://files.porsche.com/filestore/image/multimedia/none/992-carrera-modelimage-sideshot/thumbwhite/06cf5b9f-fad9-11eb-80d0-005056bbdc38;sM;twebp/porsche-thumbwhite.webp" alt="Porsche 911 Side"
+      <img src="https://cdn.motor1.com/images/mgl/qkVvJ/s3/2022-porsche-911-gt3.jpg" alt="Porsche 911 Side"
            style="width:100%; border-radius:12px;" />
-      <img src="https://www.topgear.com/sites/default/files/2022/06/911%20Sport%20Classic%2012.jpg" alt="Porsche 911 Rear"
+      <img src="https://images.hindustantimes.com/auto/img/2023/02/17/1600x900/porsche_911_gt3_rs_1676625652529_1676625659047_1676625659047.jpg" alt="Porsche 911 Rear"
            style="width:100%; border-radius:12px;" />
-      <img src="https://cdn.motor1.com/images/mgl/2oRM0/s1/2022-porsche-911-carrera-gts-exterior.jpg" alt="Porsche 911 GTS"
+      <img src="https://cdn.motor1.com/images/mgl/BZyRM/s3/2020-porsche-911-carrera.jpg" alt="Porsche 911 GTS"
            style="width:100%; border-radius:12px;" />
     </div>
   </section>
